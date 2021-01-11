@@ -1,5 +1,7 @@
 #3. How multiple inheritance is handled in PHP? Give example.
 <?php
+/*Multiple Inheritance is the property of the Object Oriented Programming languages in which child class or sub class 
+can inherit the properties of the multiple parent classes or super classes*/
 class base{
 
 
