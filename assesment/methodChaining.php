@@ -1,7 +1,7 @@
 
 1. Demonstrate the concept of method chaing in PHP.
 
-2. Create an interface A that has 2 methods,abstract class B implements the method and gives definition for 1 method.Create a concrete class and create its object .
+.
 
 
 
